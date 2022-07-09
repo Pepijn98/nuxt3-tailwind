@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "dbaeumer.vscode-eslint",
+        "Kurozero.vscode-commit-reminder",
+        "EditorConfig.EditorConfig",
+        "pflannery.vscode-versionlens"
+    ]
+}
